@@ -30,7 +30,8 @@ Me apasiona estudiar y aprender siempre algo nuevo!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
--------------------------------------------------------------------------------------------------------------------------------------------------------------- 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------- 
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/milagros-guillot-17936422b/" target="_blank">
