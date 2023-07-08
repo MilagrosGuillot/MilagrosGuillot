@@ -34,3 +34,4 @@ Me apasiona estudiar y aprender siempre algo nuevo!
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="30" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="30" alt="gmail logo"  />
 
+
