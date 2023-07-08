@@ -8,6 +8,7 @@ Desarrollador Web Full Stack
 ![7d1](https://github.com/MilagrosGuillot/MilagrosGuillot/assets/101240663/bda00025-615d-41b3-9fff-19273b58481c)
 
 Me apasiona estudiar y aprender siempre algo nuevo! 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -29,14 +30,3 @@ Me apasiona estudiar y aprender siempre algo nuevo!
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="center">
-</div>
-
-###
