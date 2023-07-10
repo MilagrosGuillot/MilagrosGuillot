@@ -9,7 +9,7 @@ Desarrollador Web Full Stack
 
 <p> Me apasiona estudiar y aprender siempre algo nuevo! 
 Me llamo Milagros Guillot soy de Argentina, Córdoba. Me gradué en el bootcamp de Soy Henry. He participado en proyectos de código abierto bajo la metodología Scrum, lo que me ha permitido adquirir valiosas habilidades en gestión ágil de proyectos. Estoy emocionada por las oportunidades que me esperan en el mundo de la tecnología y estoy comprometida a seguir creciendo como profesional y aportando mi experiencia en proyectos desafiantes.</p>
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
