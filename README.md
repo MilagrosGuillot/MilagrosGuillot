@@ -7,8 +7,8 @@ Desarrollador Web Full Stack
 
 ![7d1](https://github.com/MilagrosGuillot/MilagrosGuillot/assets/101240663/bda00025-615d-41b3-9fff-19273b58481c)
 
-<h2> Me apasiona estudiar y aprender siempre algo nuevo! 
-Me llamo Milagros Guillot soy de Argentina, Córdoba. Me gradué en el bootcamp de Soy Henry. He participado en proyectos de código abierto bajo la metodología Scrum, lo que me ha permitido adquirir valiosas habilidades en gestión ágil de proyectos. Estoy emocionada por las oportunidades que me esperan en el mundo de la tecnología y estoy comprometida a seguir creciendo como profesional y aportando mi experiencia en proyectos desafiantes.</h2>
+<p> Me apasiona estudiar y aprender siempre algo nuevo! 
+Me llamo Milagros Guillot soy de Argentina, Córdoba. Me gradué en el bootcamp de Soy Henry. He participado en proyectos de código abierto bajo la metodología Scrum, lo que me ha permitido adquirir valiosas habilidades en gestión ágil de proyectos. Estoy emocionada por las oportunidades que me esperan en el mundo de la tecnología y estoy comprometida a seguir creciendo como profesional y aportando mi experiencia en proyectos desafiantes.</p>
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
