@@ -30,6 +30,7 @@ Me llamo Milagros Guillot soy de Argentina, Córdoba. Me gradué en el bootcamp 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
 </div>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
