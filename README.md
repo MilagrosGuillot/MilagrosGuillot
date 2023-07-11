@@ -2,7 +2,7 @@
 ¡HOLA 👋, SOY MILAGROS!
 
 Desarrollador Web Full Stack 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 💻 Desde Cordoba, Argentina
 
 ![7d1](https://github.com/MilagrosGuillot/MilagrosGuillot/assets/101240663/bda00025-615d-41b3-9fff-19273b58481c)
@@ -32,7 +32,7 @@ Me llamo Milagros Guillot soy de Argentina, Córdoba. Me gradué en el bootcamp 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
 </div>
-------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------
 <div align="left">
   <a href="https://www.linkedin.com/in/milagros-guillot-17936422b/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
