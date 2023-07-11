@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> https://media1.giphy.com/media/LHZyixOnHwDDy/giphy.gif?cid=ecf05e47n2imdb6074f978hrclqlvbdqxc8410qo5ft1u274&ep=v1_gifs_search&rid=giphy.gif&ct=g
+<p align="left"> https://user-images.githubusercontent.com/101240663/244610936-bda00025-615d-41b3-9fff-19273b58481c.gif
 
  <br>
   
